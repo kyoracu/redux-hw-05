@@ -31,13 +31,6 @@
       "author": "Jack London",
       "price": 22,
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sea-wolf_cover.jpg"
-    },
-    {
-      "id": 5,
-      "title": "Dream Without Fire",
-      "author": "Adilet Zhusupov",
-      "price": 20,
-      "imgUrl": "public/book.png"
     }
   ],
   "cartItems": []
